@@ -1,0 +1,14 @@
+C:\Users\maldi\OneDrive\Рабочий стол\imgkot\bin\Debug\net7.0\imgkot.exe
+C:\Users\maldi\OneDrive\Рабочий стол\imgkot\bin\Debug\net7.0\imgkot.deps.json
+C:\Users\maldi\OneDrive\Рабочий стол\imgkot\bin\Debug\net7.0\imgkot.runtimeconfig.json
+C:\Users\maldi\OneDrive\Рабочий стол\imgkot\bin\Debug\net7.0\imgkot.dll
+C:\Users\maldi\OneDrive\Рабочий стол\imgkot\bin\Debug\net7.0\imgkot.pdb
+C:\Users\maldi\OneDrive\Рабочий стол\imgkot\obj\Debug\net7.0\imgkot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldi\OneDrive\Рабочий стол\imgkot\obj\Debug\net7.0\imgkot.AssemblyInfoInputs.cache
+C:\Users\maldi\OneDrive\Рабочий стол\imgkot\obj\Debug\net7.0\imgkot.AssemblyInfo.cs
+C:\Users\maldi\OneDrive\Рабочий стол\imgkot\obj\Debug\net7.0\imgkot.csproj.CoreCompileInputs.cache
+C:\Users\maldi\OneDrive\Рабочий стол\imgkot\obj\Debug\net7.0\imgkot.dll
+C:\Users\maldi\OneDrive\Рабочий стол\imgkot\obj\Debug\net7.0\refint\imgkot.dll
+C:\Users\maldi\OneDrive\Рабочий стол\imgkot\obj\Debug\net7.0\imgkot.pdb
+C:\Users\maldi\OneDrive\Рабочий стол\imgkot\obj\Debug\net7.0\imgkot.genruntimeconfig.cache
+C:\Users\maldi\OneDrive\Рабочий стол\imgkot\obj\Debug\net7.0\ref\imgkot.dll
